@@ -1,1 +1,1 @@
-<?phpinclude_once("index.html"); ?>
+<?phpinclude_once("Website/Code Files/home/home.html"); ?>
